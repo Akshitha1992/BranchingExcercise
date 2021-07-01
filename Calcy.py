@@ -1,1 +1,2 @@
-This is my first branching project
+Framework for calcy project
+Adding divide functionality
